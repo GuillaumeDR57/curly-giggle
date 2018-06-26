@@ -9,4 +9,4 @@ Welcome to my awesome documentation site!
 
 ### Some related resources
 
-[Google site] (www.google.fr)
+[Google site] (http://www.google.fr)
